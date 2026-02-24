@@ -11,7 +11,7 @@
 **A modern, fully-featured streaming web app for videos, music, and podcasts.**  
 **100% JSON-driven • Multi-cloud support • Production-grade quality**
 
-[Live Demo](#) · [Features](#-features) · [Quick Start](#-quick-start) · [Add Content](#-adding-content-json-driven) · [Cloud Providers](#-supported-cloud-providers)
+[Live Demo](https://stream-nova.sudhirk926235.workers.dev) · [Features](#-features) · [Quick Start](#-quick-start) · [Add Content](#-adding-content-json-driven) · [Cloud Providers](#-supported-cloud-providers)
 
 </div>
 
